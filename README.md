@@ -16,6 +16,8 @@
 
 ## 📩 咨询与获取激活码
 - **微信（WX）**：`nevernamed`（添加时请备注“小度豆包”）
-  <img width="888" height="1131" alt="ce880a2fb4243b9eee06e76cd6544dc6" src="https://github.com/user-attachments/assets/b795c79a-2734-4152-8932-ef2cd1472923" />
+  <div align="center">
+  <img width="250" alt="微信二维码" src="https://github.com/user-attachments/assets/b795c79a-2734-4152-8932-ef2cd1472923" />
+</div>
 
 - **闲鱼（XY）**：<a href="https://m.tb.cn/h.jQI5mNC?tk=28466erU9hPHU293">在闲鱼中打开</a>
