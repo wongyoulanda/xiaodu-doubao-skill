@@ -23,6 +23,5 @@
 - **闲鱼（XY）**：<a href="https://m.tb.cn/h.jQI5mNC?tk=28466erU9hPHU293">在闲鱼中打开</a>
 
 --- 
-![访问量](https://count.getloli.com/get/@wongyoulanda-xiaodu-doubao-skill?theme=rule34)
 
 ![访客统计](https://komarev.com/ghpvc/?username=wongyoulanda-xiaodu-doubao-skill&label=Views&color=0e75b6&style=flat)
