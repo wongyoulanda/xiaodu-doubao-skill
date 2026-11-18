@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="212" viewBox="0 0 960 212" role="img" aria-labelledby="title desc">
+  <title id="title">屏桥安装路线</title>
+  <desc id="desc">准备设备，打开电脑助手，连接并安装，登录与激活，开始语音使用。</desc>
+  <rect width="960" height="212" rx="18" fill="#f5f8fb"/>
+  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif">
+    <text x="30" y="35" font-size="13" font-weight="600" fill="#5c7185">从安装到日常使用</text>
+    <path d="M120 93H840" fill="none" stroke="#d9e4ed" stroke-width="2"/>
+    <g fill="#fff" stroke="#d9e4ed"><circle cx="120" cy="93" r="24"/><circle cx="300" cy="93" r="24"/><circle cx="480" cy="93" r="24"/><circle cx="660" cy="93" r="24"/><circle cx="840" cy="93" r="24"/></g>
+    <g text-anchor="middle" font-size="18" font-weight="600" fill="#286e72"><text x="120" y="100">1</text><text x="300" y="100">2</text><text x="480" y="100">3</text><text x="660" y="100">4</text><text x="840" y="100">5</text></g>
+    <g text-anchor="middle" font-size="17" font-weight="600" fill="#243746"><text x="120" y="145">准备设备</text><text x="300" y="145">打开助手</text><text x="480" y="145">连接并安装</text><text x="660" y="145">登录与激活</text><text x="840" y="145">语音使用</text></g>
+    <g text-anchor="middle" font-size="13" fill="#657789"><text x="120" y="173">核对型号与固件</text><text x="300" y="173">Windows / macOS</text><text x="480" y="173">跟随窗口提示</text><text x="660" y="173">使用自己的账号</text><text x="840" y="173">无需一直连接电脑</text></g>
+  </g>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="324" viewBox="0 0 900 324" role="img" aria-labelledby="title desc">
+  <title id="title">Mac 首次打开助手的操作路径</title>
+  <desc id="desc">确认来源后，先尝试启动 ScreenBridge Installer，再到系统设置的隐私与安全性中，为对应应用选择仍要打开。这是操作路径示意，并非系统截图。</desc>
+  <rect width="900" height="324" rx="18" fill="#f5f8fb"/>
+  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif">
+    <text x="30" y="35" font-size="13" font-weight="600" fill="#5c7185">macOS 首次打开 · 操作路径示意</text>
+    <rect x="28" y="56" width="844" height="212" rx="12" fill="#fff" stroke="#d9e4ed"/>
+    <g fill="#eaf3f2"><circle cx="58" cy="91" r="13"/><circle cx="58" cy="132" r="13"/><circle cx="58" cy="173" r="13"/><circle cx="58" cy="223" r="13"/></g>
+    <g text-anchor="middle" font-size="13" font-weight="600" fill="#286e72"><text x="58" y="96">1</text><text x="58" y="137">2</text><text x="58" y="178">3</text><text x="58" y="228">4</text></g>
+    <g font-size="17" fill="#243746"><text x="84" y="97">先在“应用程序”里打开一次 ScreenBridge Installer</text><text x="84" y="138">苹果菜单 → 系统设置</text><text x="84" y="179">隐私与安全性 → 向下滚动到“安全性”</text><text x="84" y="229">找到对应应用的拦截记录 →</text></g>
+    <rect x="354" y="204" width="118" height="36" rx="8" fill="#eaf3f2" stroke="#b8d5d2"/>
+    <text x="413" y="228" text-anchor="middle" font-size="16" font-weight="600" fill="#286e72">仍要打开</text>
+    <text x="488" y="229" font-size="15" fill="#657789">按系统提示验证并确认打开</text>
+    <text x="30" y="297" font-size="13" fill="#657789">只在确认安装包来源可信后操作；具体界面以你的 macOS 为准。</text>
+  </g>
+</svg>
